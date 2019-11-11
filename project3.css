@@ -1,0 +1,142 @@
+body{
+	margin: 0 ;
+	padding: 0 ;
+}
+
+#toplace{
+	width: 1215px; /* Maximum width of page*/
+	margin: 0 auto;
+}
+#scott_3color{
+width: 300px;
+height: 400px;
+margin: 0;
+padding: 0;
+
+}
+
+#navigation{
+	width: 700px;
+	height: 45px;
+	background-color: #9adada;
+	position: relative;
+	top:-448px;
+	left: 300px;
+}
+
+#navigation a{
+	padding: 5px 5px 5px 35px;
+	margin: -5px;
+	background-color: #008476;
+	position: relative;
+	top:12px;
+	left: 5px;
+}
+
+
+#header_one {
+width: 700px;
+height: 400px;
+position: relative; 
+top: -405px;
+left:300px;
+background: url("header1.jpg");
+font-size: 46pt
+color: #ffffff;
+
+} 
+.against {
+position: relative; 
+font-size: 46pt;
+color: #ffffff;
+padding: 0;
+margin: 0;
+position: relative;
+top: 15px;
+left: 70px;
+
+}
+
+#fatboy video{
+width: 1000px;
+display: inline;
+position: relative;
+top: -450px;
+}
+#navigation2{
+	width: 1002px;
+	height: 45px;
+	background-color: #9adada;
+	position: relative;
+	top:-455px;
+	
+}
+
+#navigation2 a{
+	padding: 5px 50px 5px 50px;
+	margin: -5px;
+	background-color: #008476;
+	position: relative;
+	top:12px;
+	left: 5px;
+}
+
+
+
+#anotherHeader{
+	background-image: url("header2.jpg");
+	width: 500px;
+	height: 400px;
+	position: relative;
+	top: -455px;
+
+}
+
+#anotherHeader img{
+	width: 350px;
+	height: 250px;
+	background: red;
+	position: relative;
+	top:75px;
+	left: 75px;
+}
+
+
+.reviews {
+position: relative;
+	top:-150px;
+	left: 520px;
+	font-size: 14pt;
+	color: #3a0097;
+
+}
+
+#navigation3{
+	width: 1008px;
+	height: 45px;
+	background-color: #9adada;
+	position: relative;
+	top:-455px;
+	
+}
+
+#navigation3 a{
+	padding: 5px 50px 5px 50px;
+	margin: -5px;
+	background-color: #008476;
+	position: relative;
+	top:12px;
+	left: 5px;
+}
+
+.samples a{
+position: relative; 
+font-size: 46pt;
+color: #1a9896;
+padding: 0;
+margin: 0;
+position: relative;
+top: -450px;
+
+
+}
