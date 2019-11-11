@@ -1,0 +1,105 @@
+body{
+	margin:0;
+	padding: 0;
+}
+
+body p{
+	margin: 0;
+	padding: 0;
+}
+
+#mainContainer{
+	
+	padding: 0;
+}
+
+#headerBar{
+	margin: 0 auto;
+	padding: 0;
+	height: 44px;
+	width: 800px;
+	background-color: #b30000;
+	margin: 0;
+	width: 100%;
+
+}
+
+
+#headerBar p{
+	color: #dbdbd0;
+	font-family: Arial, sans-serif;
+	font-size: 24pt
+	padding: 0;
+	margin: 0;
+	display: inline;
+	position: relative;
+	
+}
+
+#headerBar img{
+	height: 25px;
+	position: relative;
+	top: 10px;
+	left: 150px;
+}
+
+#headerBar p a{
+	color: #ffff66;
+	text-decoration: none;
+}
+#opens{
+	position: relative;
+	left: 200px;
+}
+
+
+
+
+#grit{
+	position: relative;
+	right: -370px;
+
+}
+
+#phone{
+position: relative;
+	left: 130px;
+
+}
+#carouselArea{
+	height: 700px;
+	background-image: url("top-banner1a.jpg");
+	background-repeat: none;
+	background-attachment: 100%;
+}
+
+#navBar{
+width: 300px;
+background-color: #ffff66;
+color: #b30000;
+position: relative;
+top: 25px;
+left: 100px;
+}
+
+#navBar ul{
+	list-style-type: none;
+
+}
+
+#navBar ul li{
+	display: inline;
+	padding: 10px 10px 10px 10px;
+	position: relative;
+
+}
+
+#navBar ul li a{
+	color: #b30000;
+}
+
+#banner{
+	position: relative;
+	top: 10px;
+	left: 600px;
+}
