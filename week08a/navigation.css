@@ -1,0 +1,33 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+
+#navBar ul, ol{
+		list-style: none; /* Removes the numbers or bullets on the lists*/
+	margin: 0;
+	
+}
+
+#navBar ul, li{
+	display: inline; /* Makes list display horizontally */
+	margin: 0;
+padding: 12px 10px 5px 15px;
+}
+
+#navBar a{
+	text-decoration: none;
+	background-color: red;
+	font-size: 24pt;
+	padding: 0;
+	margin: 0;
+	transition: all 1s; transform: 1s;
+}
+
+#navBar a:hover{
+	background-color: green;
+	font-size: 55px;
+	transition: all 2s ease-out;
+	transition: skewX(45deg);
+
+}
