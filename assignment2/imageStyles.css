@@ -1,0 +1,40 @@
+#old_mexican {
+    width: 350px;
+	border: 2px dashed #db1b0d 
+}
+
+#fat_samoans{
+	width: 350px;
+	border: 4px solid #db1b0d
+}	
+#bay_bridge{
+
+width: 400px;
+	border: 3px dotted #db1b0d
+
+}
+#downtown_oakland{
+
+	width: 300px;
+	border: 4px dashed #db1b0d
+
+}
+#las_vegas{
+	
+	width: 400px;
+	border: 3px solid #db1b0d
+	
+}
+
+
+
+p{
+
+	font-size: 19pt; 
+	color: #09b046;
+	font-weight: bold;
+	font font-family: Times New Roman, Courier, serif;
+
+}
+
+}
